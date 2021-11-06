@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html>
 <head> 
        <meta charset="utf-8"> 
-	<title>Register</title> 
+	<title>Membuat Form</title> 
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -18,7 +19,27 @@
        	  <div class="input-group">
        	    <input type="Password" required="">
        	    <span>Password</span> 
-       	  </div> 
+       	  </div>
+
+          <div class="input-group">
+            <input type="Password" required="">
+            <span>Konfirmasi Password</span> 
+          </div>
+
+          <div class="input-group">
+            <input type="Password" required="">
+            <span>Nama</span> 
+          </div>
+
+          <div class="input-group">
+            <input type="Password" required="">
+            <span>No Handphone</span> 
+          </div>
+
+          <div class="input-group">
+            <input type="Password" required="">
+            <span>NIS</span> 
+          </div> 
 
        	  <div class="input-group">
        	    <input type="submit" value="Login">
